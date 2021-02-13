@@ -1,0 +1,45 @@
+{
+    "metaData": {
+        "correlationId": "sync_networker_02"
+    },
+    "data": {
+        "action": "generate",
+        "activationActionCode": "ACTIVATE",
+        "activationId": "1234",
+		"isKeyRequired":"true",
+        "keyGenInfoList": [
+            {
+                "entitlement": {
+                    "activationInfo": {
+                        "activationTypeCode": "PERM",
+                        "ltuToBeActivated": 1
+                    },
+                    "entitlementId": "72310005"
+                },
+                "product": {
+                    "skuNumber": " 456-005-412_R2.0 "
+                }
+            }
+        ],
+        "machine": {
+            "hostId": "cb4f4327",
+            "lockingIdDetails": [
+                {
+                    "isRequired": "-1",
+                    "lockingId": "dcbb4321",
+                    "name": "HOSTID3",
+                    "typeCode": "HOSTID3",
+                    "usageCode": "APPSERVER",
+                    "vldnCode": "NONE"
+                }
+            ],
+            "prevHostId": ""
+        },
+        "registeredCompany": {
+            "pubRefXId": "P4289380"
+        },
+        "site": {
+            "contractSiteId": "9700510"
+        }
+    }
+}
