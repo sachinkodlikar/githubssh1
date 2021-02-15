@@ -1,3 +1,7 @@
 entering the text for ssh github
 added a line in the remote repository
+<<<<<<< HEAD
 Now I have added a line in Local repository.. (Added in Local Rep)
+=======
+added one more line in the remote repository (in rem rep)
+>>>>>>> 03e9bb44b02d77a5db97b5d68dafea966d998184
