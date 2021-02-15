@@ -1,3 +1,4 @@
 adding text to ab.txt
 adding one more text
+<<<<<<< HEAD
 adding text to arise a conflict -- done in local
